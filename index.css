@@ -3,6 +3,8 @@ body {
    background-position: top right;
    background-repeat: no-repeat;
    background-size: cover;
+   font-family: 'Indie Flower', cursive;
+
 }
 .pomodoro-estimate{
     font-weight: bold;
