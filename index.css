@@ -1,5 +1,8 @@
 body {
-    background-color: lightblue
+    background-image: url(http://nourishingminimalism.com/wp-content/uploads/2016/02/Grieving-Through-The-Past-As-You-Declutter-Sentimental-Items.jpg);
+   background-position: top right;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 .pomodoro-estimate{
     font-weight: bold;
@@ -31,4 +34,15 @@ ul,li,a{
  list-style-type: none;
  padding: 15px;
  margin-bottom:10px;
+}
+li:hover{
+  background-color: #E1F5FE;
+  border-radius: 3px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+li {
+    color: white;
 }
